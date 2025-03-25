@@ -1,11 +1,11 @@
 {
-  "name": "qcod/laravel-settings",
+  "name": "unnovate/laravel-settings",
   "description": "Store key value pair in database as settings",
-  "homepage": "https://github.com/qcod/laravel-settings",
+  "homepage": "https://github.com/codeparl/laravel12-settings",
   "type": "library",
   "license": "MIT",
   "keywords": [
-    "qcod",
+    "unnovate",
     "laravel",
     "database settings",
     "db settings",
